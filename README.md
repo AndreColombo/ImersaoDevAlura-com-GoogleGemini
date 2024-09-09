@@ -1,1 +1,1 @@
-# ImersaoDevAlura-com-GoogleGemini
+# Imersao Dev Alura com Google Gemini
